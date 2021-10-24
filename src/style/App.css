@@ -1,0 +1,7 @@
+.leaflet-container {
+  
+  width: 60%;
+  height: 100vh;
+}
+
+/* .leaflet-marker-icon{background-image: url("https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png")!important;} */
